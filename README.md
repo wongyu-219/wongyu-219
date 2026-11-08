@@ -33,4 +33,4 @@ reproduce it is in the same repository.
 
 ### Elsewhere
 
-Portfolio: [sport analytics work](https://claude.ai/code/artifact/35ee4023-312e-47ad-a7a9-ee72cb38666d) · dnjsrb5316@gmail.com
+dnjsrb5316@gmail.com
